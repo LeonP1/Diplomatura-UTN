@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    color: #fff;
+    font-family: sans-serif;
+    background: linear-gradient(to bottom, #000, #555);
+}
+
+h1 {
+    color: #48e;
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    column-count: 3;
+    column-gap: 20px;
+    list-style-type: none;
+}
